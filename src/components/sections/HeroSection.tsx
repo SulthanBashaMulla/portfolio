@@ -94,7 +94,7 @@ export const HeroSection = () => {
             className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight"
           >
             Hi, I'm{" "}
-            <span className="text-gradient glow-text">Your Name</span>
+            <span className="text-gradient glow-text">Sulthan Basha</span>
           </motion.h1>
 
           {/* Typing Animation */}
