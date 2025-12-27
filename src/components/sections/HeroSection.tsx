@@ -6,7 +6,8 @@ import { Button } from "@/components/ui/button";
 const roles = [
   "BCA Student",
   "Aspiring Software Engineer",
-  "DevOps Enthusiast",
+  "Python Dev",
+  "DevOps Engineer Enthusiast",
   "Full-Stack Developer",
 ];
 

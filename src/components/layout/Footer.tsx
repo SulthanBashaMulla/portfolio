@@ -21,7 +21,7 @@ export const Footer = () => {
 
           {/* Tagline */}
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Built By AsH <Heart className="w-4 h-4 text-destructive fill-destructive" /> and lots of ☕
+            Built By AsHwaK <Heart className="w-4 h-4 text-destructive fill-destructive" /> and lots of ☕
           </p>
 
           {/* Copyright */}
