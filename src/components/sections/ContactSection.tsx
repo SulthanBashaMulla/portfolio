@@ -81,20 +81,20 @@ export const ContactSection = () => {
                 
                 <div className="space-y-4">
                   <a
-                    href="mailto:hello@example.com"
+                    href="mailto: mullasulthanbasha@gmail.com"
                     className="flex items-center gap-4 text-muted-foreground hover:text-foreground transition-colors group"
                   >
                     <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
                       <Mail className="w-5 h-5 text-primary" />
                     </div>
-                    <span>hello@example.com</span>
+                    <span>mullasulthanbasha@gmail.com</span>
                   </a>
                   
                   <div className="flex items-center gap-4 text-muted-foreground">
                     <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
                       <MapPin className="w-5 h-5 text-primary" />
                     </div>
-                    <span>India</span>
+                    <span>Nandyal, Andrapradesh, India</span>
                   </div>
                   
                   <div className="flex items-center gap-4 text-muted-foreground">

@@ -16,7 +16,7 @@ export const Footer = () => {
         >
           {/* Logo */}
           <a href="#" className="font-display text-xl font-bold text-gradient">
-            Portfolio
+            AshWak Basha Mulla
           </a>
 
           {/* Tagline */}
