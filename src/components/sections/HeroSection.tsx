@@ -115,30 +115,20 @@ export const HeroSection = () => {
 
     <div className="max-w-2xl mx-auto text-center">
       
-      {/* Line 1 */}
-      <motion.p
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.4, duration: 0.6, ease: "easeOut" }}
-        className="text-base md:text-lg text-muted-foreground leading-relaxed"
-      >
-        Class Representative | Self-learner in Web Development & DevOps | District-level Volleyball Player
-      </motion.p>
-
-      {/* Line 2 */}
-      <motion.p
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.7, duration: 0.6, ease: "easeOut" }}
-        className="mt-3 text-base md:text-lg text-muted-foreground leading-relaxed"
-      >
-        Passionate about building scalable applications and automating deployments,
-        combining modern web technologies with DevOps practices to create seamless
-        digital experiences.
-      </motion.p>
+<motion.p
+  initial={{ opacity: 0, y: 20 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ delay: 0.6, duration: 0.6 }}
+  className="max-w-2xl mx-auto text-base md:text-lg text-muted-foreground leading-relaxed"
+>
+  Class Representative | Self-learner in Web Development & DevOps | District-level Volleyball Player
+  <br />
+  Passionate about building scalable applications and automating deployments, 
+  combining modern web technologies with DevOps practices to create 
+  seamless digital experiences.
+</motion.p>
 
     </div>
-  );
 
           {/* CTA Buttons */}
           <motion.div
