@@ -7,7 +7,7 @@ const projects = [
   {
     title: "NDC - College website",
     description: "Built a modern, responsive college website featuring dynamic pages for Resources, faculty, and Navs. Thrived to deliver a scalable and user-friendly platform with improved accessibility and performance..",
-    image: "https://freeimage.host/i/fVWZw3N",
+    image: "https://i.imghippo.com/files/kQM6760dto.jpg",
     tags: ["Javascript", "Html5", "Css", "Gfonts"],
     github: "https://github.com/SulthanBashaMulla",
     demo: "preview-ndc.onrender.com",
@@ -15,7 +15,7 @@ const projects = [
   {
     title: "Portfolio",
     description: "Personal web development project focused on designing a professional portfolio website with responsive layouts, interactive elements, and clean navigation..",
-    image: "https://freeimage.host/i/fVWyicx",
+    image: "https://i.imghippo.com/files/cgSt3804zD.jpg",
     tags: ["React", "shadcn", "vitae", "js"],
     github: "https://github.com/SulthanBashaMulla",
     demo: "https://portfolio-tau-two-19.vercel.app/",
