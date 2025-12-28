@@ -7,7 +7,7 @@ const projects = [
   {
     title: "NDC - College website",
     description: "Built a modern, responsive college website featuring dynamic pages for Resources, faculty, and Navs. Thrived to deliver a scalable and user-friendly platform with improved accessibility and performance..",
-    image: "https://i.imghippo.com/files/kQM6760dto.jpg",
+    image: "/public/collegesiteimg.jpg",
     tags: ["Javascript", "Html5", "Css", "Gfonts"],
     github: "https://github.com/SulthanBashaMulla",
     demo: "preview-ndc.onrender.com",
