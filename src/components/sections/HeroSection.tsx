@@ -119,8 +119,9 @@ export const HeroSection = () => {
             className="max-w-2xl mx-auto text-base md:text-lg text-muted-foreground leading-relaxed"
           >
             Passionate about building scalable applications and automating deployments. 
-            I combine modern web technologies with DevOps practices to create 
+             combining modern web technologies with DevOps practices to create 
             seamless digital experiences.
+          Class Representative | Self-learner in Web Development & DevOps | District-level Volleyball Player
           </motion.p>
 
           {/* CTA Buttons */}
