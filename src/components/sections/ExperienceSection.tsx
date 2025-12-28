@@ -1,6 +1,6 @@
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import { Calendar, Award, BookOpen, Briefcase , clapperboard } from "lucide-react";
+import { Calendar, Award, BookOpen, Briefcase, Clapperboard } from "lucide-react";
 
 const experiences = [
   {
@@ -10,11 +10,11 @@ const experiences = [
     organization: "Nationa Degree College, Nandyal",
     period: "2024 - 2027",
     description: "Embarked on my Bachelor's in Computer Applications, building strong foundations in programming, data structures, and algorithms.",
-    highlights: ["Data Structures", "OOP Concepts", "Database Management"],
+    highlights: ["Java", "Python", "DBMS","Operating systems","Networkings"],
   },
   {
     type: "Devops",
-    icon: clapperboard ,
+    icon: Clapperboard ,
     title: "Devops Engineer",
     organization: "Self-Learning",
     period: "2026",
