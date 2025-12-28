@@ -121,11 +121,7 @@ export const HeroSection = () => {
   transition={{ delay: 0.6, duration: 0.6 }}
   className="max-w-2xl mx-auto text-base md:text-lg text-muted-foreground leading-relaxed"
 >
-  Class Representative | Self-learner in Web Development & DevOps | District-level Volleyball Player
-  <br />
-  Passionate about building scalable applications and automating deployments, 
-  combining modern web technologies with DevOps practices to create 
-  seamless digital experiences.
+  Class Representative | Self-learner in Web Development & DevOps | District-level Volleyball Player | Balancing Leadership, Upskilling.
 </motion.p>
 
     </div>
