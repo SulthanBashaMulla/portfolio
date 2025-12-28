@@ -1,16 +1,25 @@
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import { Calendar, Award, BookOpen, Briefcase } from "lucide-react";
+import { Calendar, Award, BookOpen, Briefcase , clapperboard } from "lucide-react";
 
 const experiences = [
   {
     type: "learning",
     icon: BookOpen,
-    title: "Started BCA Journey",
-    organization: "Nationa Degree Colleg",
+    title: "BCA Journey",
+    organization: "Nationa Degree College, Nandyal",
     period: "2024 - 2027",
     description: "Embarked on my Bachelor's in Computer Applications, building strong foundations in programming, data structures, and algorithms.",
     highlights: ["Data Structures", "OOP Concepts", "Database Management"],
+  },
+  {
+    type: "Devops",
+    icon: clapperboard ,
+    title: "Devops Engineer",
+    organization: "Self-Learning",
+    period: "2026",
+    description: "Passionately Learning , OS , Networkings,Cloud , CI/CD pipelins , Working Efficiently to automate workflow through Scripting.",
+    highlights: ["Linux", "Docker","Kubernetes","AWS","CI/CD"],
   },
   {
     type: "project",
@@ -18,7 +27,7 @@ const experiences = [
     title: "Full-Stack Development",
     organization: "Self-Learning",
     period: "2025",
-    description: "Deep dive into modern web development, mastering React, Node.js, and building multiple production-ready applications.",
+    description: "Deep dive into modern web development and Devops, mastering React, Node.js and building multiple production-ready applications.",
     highlights: ["React.js", "Node.js","ShadcnUI","MongoDB"],
   },
   {
